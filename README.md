@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Esmail Mohamed</h1>
 <h3 align="center">A full stack .NET developer</h3>
 
-<h3 align="left">About me:</h3>
+
 <p>🚀 I'm currently focused on expanding my expertise in cutting-edge .NET technologies and enhancing scalable application development.</p>
 <p>💻 I'm a passionate .NET Developer dedicated to crafting robust and efficient software solutions.</p>
 <p>🔍 My proficiency lies in C#, ASP.NET (Core/MVC), Entity Framework, and SQL Server, with a keen eye for performance optimization.</p>
